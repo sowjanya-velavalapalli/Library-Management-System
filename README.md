@@ -2,7 +2,6 @@
 
 A robust, full-stack web application for managing library operations, built using **Java Servlets**, **JSP**, and **MySQL**. The system supports **Admin** and **Student** roles, offering seamless functionality for book management, reservations, and user administration.
 
----
 
 ## Features & Highlights
 
